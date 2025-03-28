@@ -111,6 +111,3 @@ La solución utiliza **PySpark** para procesar grandes volúmenes de datos y **M
 
 Este proyecto está bajo la Licencia MIT. Para más detalles, revisa el archivo LICENSE.
 
----
-
-Este README proporciona toda la información que alguien necesitaría para ejecutar tu proyecto, desde los requisitos hasta las decisiones de diseño. ¡Espero que sea útil! Si necesitas ajustar algo o agregar más detalles, avísame.
