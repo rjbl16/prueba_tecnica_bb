@@ -52,7 +52,7 @@ La solución utiliza **PySpark** para procesar grandes volúmenes de datos y **M
 ├── accounts_bronze.parquet       # Datos en Capa Bronze (formato Parquet)
 ├── transactions_silver.parquet   # Datos en Capa Silver (formato Parquet)
 ├── accounts_silver.parquet       # Datos en Capa Silver (formato Parquet)
-├── transactions_gold.parquet     # Datos agregados en Capa Gold (formato Parquet)
+├── customer_spending_dold.parquet# Datos agregados en Capa Gold (formato Parquet)
 │
 ├── analysis.ipynb                # Notebook con el código de procesamiento y análisis
 └── README.md                     # Este archivo
